@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+requests
+python-multipart
+typing-extensions
+boto3
+numpy
+chromadb
